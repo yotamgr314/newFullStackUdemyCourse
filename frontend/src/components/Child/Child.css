@@ -1,0 +1,31 @@
+/* Child.css */
+.child {
+    padding: 15px;
+    background-color: #7a9eab; /* Steel blue background */
+    color: black; /* Black text color */
+    border-radius: 10px; /* Rounded corners */
+    text-align: center; /* Center text */
+    width: 300px; /* Fixed width for the Child container */
+    margin: 20px auto; /* Center inside the Parent container */
+  }
+  
+  .child h3 {
+    color: black; /* Ensure heading is readable */
+    font-size: 24px;
+    font-weight: bold; /* Make the text bold */
+  }
+  
+  .child button {
+    background-color: white; /* White button background */
+    color: black; /* Black text color */
+    border: 1px solid gray; /* Subtle border for the button */
+    padding: 10px 20px; /* Add padding for better appearance */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    font-size: 16px; /* Font size for the button */
+  }
+  
+  .child button:hover {
+    background-color: #f0f0f0; /* Slightly darker background on hover */
+  }
+  

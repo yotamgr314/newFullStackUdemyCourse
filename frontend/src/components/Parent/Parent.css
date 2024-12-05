@@ -1,0 +1,18 @@
+/* Parent.css */
+.parent {
+    padding: 20px;
+    background-color: #d9f2d9; /* Light green background */
+    color: black; /* Black text */
+    border-radius: 15px; /* Rounded corners */
+    text-align: center; /* Center text and content */
+    width: 350px; /* Fixed width for the Parent container */
+    margin: 40px auto; /* Center horizontally on the page */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  }
+  
+  .parent h2 {
+    color: black; /* Ensure heading is clearly visible */
+    font-size: 28px;
+    font-weight: bold; /* Make the text bold */
+  }
+  
